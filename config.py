@@ -1,0 +1,7 @@
+API_KEY = '6877cecd6f1f73.21220276'
+EXCHANGE = 'US'
+DATA_DIR = 'data'
+HISTORICAL_DIR = f'{DATA_DIR}/historico_etf'
+BULK_DIR = f'{DATA_DIR}/bulk_actualizaciones'
+ETF_LIST_FILE = f'{DATA_DIR}/etfs_americanos.csv'
+FUNDAMENTALS_FILE = f'{DATA_DIR}/fundamentales_etfs.json'
