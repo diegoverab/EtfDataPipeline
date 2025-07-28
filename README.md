@@ -1,3 +1,4 @@
+Desde main.py  
 - Paso 1: Descargar lista de ETFs   
 - Paso 2: Descargar fundamentos  
 - Paso 3: Descargar históricos  
